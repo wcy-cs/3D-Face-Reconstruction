@@ -1,7 +1,7 @@
 # A list of 3D Face Reconstruction resources.
 ## CVPR 2024
 1. Text-conditional Attribute Alignment across Latent Spaces for 3D Controllable Face Image Synthesis
-2. 3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation
+2. 3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation. [pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_3D_Face_Reconstruction_with_the_Geometric_Guidance_of_Facial_Part_CVPR_2024_paper.pdf) [code](https://github.com/wang-zidu/3DDFA-V3)
 3. FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance
 4. 3D-Aware Face Editing via Warping-Guided Latent Direction Learning
 5. Text-Guided 3D Face Synthesis - From Generation to Editing
