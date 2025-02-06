@@ -35,3 +35,10 @@
 ## WACV 2023
 1. Controllable 3D Generative Adversarial Face Model via Disentangling Shape and Appearance
 2. 3DMM-RF: Convolutional Radiance Fields for 3D Face Modeling
+## 2017
+1.Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network CVPR2017
+2.Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression ICCV 2017
+3. End-to-end 3D face reconstruction with deep neural networks CVPR2017
+4. MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction ICCV2017
+5. Learning Detailed Face Reconstruction from a Single Image CVPR20217
+6. AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild TAC2017
