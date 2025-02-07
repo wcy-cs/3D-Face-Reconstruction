@@ -42,3 +42,28 @@
 4. MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction ICCV2017
 5. Learning Detailed Face Reconstruction from a Single Image CVPR20217
 6. AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild TAC2017
+7. Self-supervised Multi-level Face Model Learning for Monocular Reconstruction at over 250 Hz CVPR 2017
+## 2018
+Extreme 3D Face Reconstruction: Seeing Through Occlusions CVPR2018
+Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network ECCV2018
+Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild 2018
+## 2019
+Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision CVPR2019
+Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set  CVPR2019
+DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction ICCV2019
+MMFace：a multi-metric regression network for unconstrained face reconstruction CVPR2019
+GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction CVPR2019
+Towards High-ﬁdelity Nonlinear 3D Face Morphable Model CVPR2019
+## 2020
+ReDA：reinforced differentiable attribute for 3D face reconstruction CVPR2020
+Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency ECCV2020
+Towards Fast, Accurate and Stable 3D Dense Face Alignment ECCV2020
+Uncertainty-aware mesh decoder for high fidelity 3D face reconstruction CVPR2020
+Towards high-fidelity 3d face reconstruction from in-the-wild images using graph convolutional networks CVPR2020
+Unsupervised learning of probably symmetric deformable 3D objects from images in the wild CVPR2020
+AvatarMe: Realistically Renderable 3D Facial Reconstruction “in-the-wild CVPR2020
+Synthesizing coupled 3D face modalities by trunk-branch generative adversarial networks ECCV2020
+
+
+
+
