@@ -36,7 +36,8 @@
 2. Emoca: Emotion driven monocular face capture and animation CVPR2022
 3. 3D Face Reconstruction with Dense Landmarks ECCV 2022
 4. Learning to Restore 3D Face from In-the-Wild Degraded Images CVPR2022
-5. GAN2X: lambertian inverse rendering of image GANs 3DV2022
+5. 3D modulated morphable model for monocular face reconstruction TMM2022
+6. GAN2X: lambertian inverse rendering of image GANs 3DV2022
 ## 2021
 1. 3D Face Reconstruction from A Single Image Assisted by 2D Face Images in the Wild TMM2021
 2. SADRNet：self-aligned dual face regression networks for robust 3D dense face alignment and reconstruction TIP2021
