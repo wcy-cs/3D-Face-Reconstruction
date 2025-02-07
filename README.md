@@ -32,40 +32,38 @@
 20. Controllable 3D Generative Adversarial Face Model via Disentangling Shape and Appearance WACV 2023
 21.  3DMM-RF: Convolutional Radiance Fields for 3D Face Modeling WACV 2023
 ## 2022
-Towards metrical reconstruction of human faces ECCV2022
-Emoca: Emotion driven monocular face capture and animation CVPR2022 
-3D Face Reconstruction with Dense Landmarks ECCV 2022
-Learning to Restore 3D Face from In-the-Wild Degraded Images CVPR2022
-GAN2X: lambertian inverse rendering of image GANs 3DV2022
+1. Towards metrical reconstruction of human faces ECCV2022
+2. Emoca: Emotion driven monocular face capture and animation CVPR2022
+3. 3D Face Reconstruction with Dense Landmarks ECCV 2022
+4. Learning to Restore 3D Face from In-the-Wild Degraded Images CVPR2022
+5. GAN2X: lambertian inverse rendering of image GANs 3DV2022
 ## 2021
-3D Face Reconstruction from A Single Image Assisted by 2D Face Images in the Wild TMM2021
-SADRNet：self-aligned dual face regression networks for robust 3D dense face alignment and reconstruction TIP2021
-Synergy between 3DMM and 3D landmarks for accurate 3D facial geometry 3DV 2021
-Towards high fidelity monocular face reconstruction with rich reflectance using self-supervised learning and ray tracing ICCV2021
-Learning an Animatable Detailed 3D Face Model from In-The-Wild Images  ACMTOG 2021
-Inverting generative adversarial renderer for face reconstruction CVPR2021
+1. 3D Face Reconstruction from A Single Image Assisted by 2D Face Images in the Wild TMM2021
+2. SADRNet：self-aligned dual face regression networks for robust 3D dense face alignment and reconstruction TIP2021
+3. Synergy between 3DMM and 3D landmarks for accurate 3D facial geometry 3DV 2021
+4. Towards high fidelity monocular face reconstruction with rich reflectance using self-supervised learning and ray tracing ICCV2021
+5. Learning an Animatable Detailed 3D Face Model from In-The-Wild Images  ACMTOG 2021
+6. Inverting generative adversarial renderer for face reconstruction CVPR2021
 ## 2020
-ReDA：reinforced differentiable attribute for 3D face reconstruction CVPR2020
-Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency ECCV2020
-Towards Fast, Accurate and Stable 3D Dense Face Alignment ECCV2020
-Uncertainty-aware mesh decoder for high fidelity 3D face reconstruction CVPR2020
-Towards high-fidelity 3d face reconstruction from in-the-wild images using graph convolutional networks CVPR2020
-Unsupervised learning of probably symmetric deformable 3D objects from images in the wild CVPR2020
-AvatarMe: Realistically Renderable 3D Facial Reconstruction “in-the-wild CVPR2020
-Synthesizing coupled 3D face modalities by trunk-branch generative adversarial networks ECCV2020
+1. ReDA：reinforced differentiable attribute for 3D face reconstruction CVPR2020
+2. Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency ECCV2020
+3. Towards Fast, Accurate and Stable 3D Dense Face Alignment ECCV2020
+4. Uncertainty-aware mesh decoder for high fidelity 3D face reconstruction CVPR2020
+5. Towards high-fidelity 3d face reconstruction from in-the-wild images using graph convolutional networks CVPR2020
+6. Unsupervised learning of probably symmetric deformable 3D objects from images in the wild CVPR2020
+7. AvatarMe: Realistically Renderable 3D Facial Reconstruction “in-the-wild CVPR2020
+8. Synthesizing coupled 3D face modalities by trunk-branch generative adversarial networks ECCV2020
 ## 2019
-Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision CVPR2019
-Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set  CVPR2019
-DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction ICCV2019
-MMFace：a multi-metric regression network for unconstrained face reconstruction CVPR2019
-GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction CVPR2019
-Towards High-ﬁdelity Nonlinear 3D Face Morphable Model CVPR2019
-
+1. Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision CVPR2019
+2. Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set  CVPR2019
+3. DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction ICCV2019
+4. MMFace：a multi-metric regression network for unconstrained face reconstruction CVPR2019
+5. GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction CVPR2019
+6. Towards High-ﬁdelity Nonlinear 3D Face Morphable Model CVPR2019
 ## 2018
-Extreme 3D Face Reconstruction: Seeing Through Occlusions CVPR2018
-Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network ECCV2018
-Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild 2018
-
+1. Extreme 3D Face Reconstruction: Seeing Through Occlusions CVPR2018
+2. Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network ECCV2018
+3. Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild 2018
 ## 2017
 1.Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network CVPR2017
 2.Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression ICCV 2017
