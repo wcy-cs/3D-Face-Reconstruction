@@ -21,16 +21,19 @@
 9. Learning a 3D Morphable Face Reflectance Model From Low-Cost Data  CVPR 2023
 10. FFHQ-UV: Normalized Facial UV-Texture Dataset for 3D Face Reconstruction. [pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_FFHQ-UV_Normalized_Facial_UV-Texture_Dataset_for_3D_Face_Reconstruction_CVPR_2023_paper.pdf) [code](https://github.com/csbhr/FFHQ-UV) CVPR 2023
 11. Learning Neural Proto-Face Field for Disentangled 3D Face Modeling in the Wild CVPR 2023
-12. EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation ICCV 2023
-13. Template Inversion Attack against Face Recognition Systems using 3D Face Reconstruction. [pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Shahreza_Template_Inversion_Attack_against_Face_Recognition_Systems_using_3D_Face_ICCV_2023_paper.pdf) [code](https://github.com/idiap/gafar） ICCV 2023
-14. FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields ICCV 2023
-15. ASM: Adaptive Skinning Model for High-Quality 3D Face Modeling ICCV 2023
-16. HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details. [pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Chai_HiFace_High-Fidelity_3D_Face_Reconstruction_by_Learning_Static_and_Dynamic_ICCV_2023_paper.pdf) ICCV 2023
-17. Relightify: Relightable 3D Faces from a Single Image via Diffusion Models ICCV 2023
-18. Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images ICCV 2023
-19. Accurate 3D Face Reconstruction with Facial Component Tokens. [pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.pdf) ICCV 2023
-20. Controllable 3D Generative Adversarial Face Model via Disentangling Shape and Appearance WACV 2023
-21.  3DMM-RF: Convolutional Radiance Fields for 3D Face Modeling WACV 2023
+12. Robust model-based face reconstruction through weakly-supervised outlier segmentation CVPR2023
+13. A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images CVPR2023
+14. FitMe: Deep Photorealistic 3D Morphable Model Avatars CVPR2023
+15. EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation ICCV 2023
+16. Template Inversion Attack against Face Recognition Systems using 3D Face Reconstruction. [pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Shahreza_Template_Inversion_Attack_against_Face_Recognition_Systems_using_3D_Face_ICCV_2023_paper.pdf) [code](https://github.com/idiap/gafar） ICCV 2023
+17. FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields ICCV 2023
+18. ASM: Adaptive Skinning Model for High-Quality 3D Face Modeling ICCV 2023
+19. HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details. [pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Chai_HiFace_High-Fidelity_3D_Face_Reconstruction_by_Learning_Static_and_Dynamic_ICCV_2023_paper.pdf) ICCV 2023
+20. Relightify: Relightable 3D Faces from a Single Image via Diffusion Models ICCV 2023
+21. Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images ICCV 2023
+22. Accurate 3D Face Reconstruction with Facial Component Tokens. [pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.pdf) ICCV 2023
+23. Controllable 3D Generative Adversarial Face Model via Disentangling Shape and Appearance WACV 2023
+24.  3DMM-RF: Convolutional Radiance Fields for 3D Face Modeling WACV 2023
 ## 2022
 1. Towards metrical reconstruction of human faces ECCV2022
 2. Emoca: Emotion driven monocular face capture and animation CVPR2022
